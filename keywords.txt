@@ -1,0 +1,5 @@
+# ESP32 Secure Boot and Encrypt Flash
+
+Secure    KEYWORD1
+Flash     KEYWORD2
+Encrypt   KEYWORD2
